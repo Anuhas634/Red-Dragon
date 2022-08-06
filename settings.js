@@ -12,7 +12,17 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉🇱🇰❌⫷👿👿⫸❌🇱🇰              
+
+    
+
+         .❌𝑰 𝑨𝑴.❌
+
+  ▚⫷ 𝐌𝐀𝐋𝐈𝐍𝐃𝐀⫸▞
+
+  
+
+𝐑𝐄𝐃𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⫸✪❌🇱🇰` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +39,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94701655661'] // owner number
+global.ownername = "❌𝐊𝐈𝐍𝐆 𝐀𝐋𝐏𝐇𝐀❌" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -43,11 +53,11 @@ global.callblock = "false" // call block "true" / "false" (CALL ගන්න අ
 global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94701655661']
+global.ownertag = '+94701655661' //your tag number
+global.botname = ' 🇱🇰👿🌈♥️★𖡹ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🤗𖡹𝙱𝚘𝚝𖡹★♥️🌈👿🇱🇰' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "❁͜͡᭕ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰᳅◎⃝»̶̶͓͓͓̽̽̽❁⛄*" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
@@ -55,7 +65,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94701655661'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
