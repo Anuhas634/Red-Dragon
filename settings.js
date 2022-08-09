@@ -22,7 +22,7 @@ global.alivemsg = `📤I am alive now😇
 
   
 
-𝐑𝐄𝐃𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⫸✪❌🇱🇰` //Costomize Alive Message (type your message in `` )
+👿❌𝐑𝐄𝐃𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓⫸✪❌🇱🇰` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
