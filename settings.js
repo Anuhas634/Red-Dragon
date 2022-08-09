@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉🇱🇰❌⫷👿👿⫸❌🇱🇰              
+🤷‍♀️How can I help you?😉🇱🇰❌⫷🇱🇰              
 
     
 
